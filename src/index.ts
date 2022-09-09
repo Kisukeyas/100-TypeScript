@@ -1,3 +1,6 @@
-const message: string = "Hello World!!!!!!!!!!";
+const a: number = 1;
+const b: number = 3;
 
-console.log(message);
+const sum: number = a + b;
+
+console.log(sum);
