@@ -1,1 +1,3 @@
-node_module
+# compiled output
+/dist
+/node_modules
